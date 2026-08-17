@@ -1,0 +1,8 @@
+name: mvsr-cpp
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.9
+  - xeus-cling=0.15.3
