@@ -1,0 +1,44 @@
+class_id,category,name_de,name_en
+0,prohibitory,Zulässige Höchstgeschwindigkeit 20,Speed limit (20km/h)
+1,prohibitory,Zulässige Höchstgeschwindigkeit 30,Speed limit (30km/h)
+2,prohibitory,Zulässige Höchstgeschwindigkeit 50,Speed limit (50km/h)
+3,prohibitory,Zulässige Höchstgeschwindigkeit 60,Speed limit (60km/h)
+4,prohibitory,Zulässige Höchstgeschwindigkeit 70,Speed limit (70km/h)
+5,prohibitory,Zulässige Höchstgeschwindigkeit 80,Speed limit (80km/h)
+6,other,Ende der zulässigen Höchstgeschwindigkeit 80,End of speed limit (80km/h)
+7,prohibitory,Zulässige Höchstgeschwindigkeit 100,Speed limit (100km/h)
+8,prohibitory,Zulässige Höchstgeschwindigkeit 120,Speed limit (120km/h)
+9,prohibitory,Überholverbot,No passing
+10,prohibitory,Überholverbot für Kfz über 3.5 t,No passing for vehicles over 3.5 t
+11,danger,Vorfahrt an der nächsten Kreuzung,Right-of-way at the next intersection
+12,other,Vorfahrtstraße,Priority road
+13,other,Vorfahrt gewähren,Yield
+14,other,Stop,Stop
+15,prohibitory,Verbot für Fahrzeuge aller Art,No vehicles
+16,prohibitory,Verbot für Kfz über 3.5 t,Vehicles over 3.5 t prohibited
+17,other,Einfahrt verboten,No entry
+18,danger,Gefahrenstelle,General caution
+19,danger,Kurve links,Dangerous curve to the left
+20,danger,Kurve rechts,Dangerous curve to the right
+21,danger,Doppelkurve,Double curve
+22,danger,Unebene Fahrbahn,Bumpy road
+23,danger,Schleudergefahr,Slippery road
+24,danger,Verengte Fahrbahn rechts,Road narrows on the right
+25,danger,Baustelle,Road work
+26,danger,Lichtzeichenanlage,Traffic signals
+27,danger,Fußgänger,Pedestrians
+28,danger,Kinder,Children crossing
+29,danger,Radverkehr,Bicycles crossing
+30,danger,Schnee- oder Eisglätte,Beware of ice/snow
+31,danger,Wildwechsel,Wild animals crossing
+32,other,Ende sämtlicher Streckenverbote,End of all speed and passing limits
+33,mandatory,Vorgeschriebene Fahrtrichtung rechts,Turn right ahead
+34,mandatory,Vorgeschriebene Fahrtrichtung links,Turn left ahead
+35,mandatory,Vorgeschriebene Fahrtrichtung geradeaus,Ahead only
+36,mandatory,Geradeaus oder rechts,Go straight or right
+37,mandatory,Geradeaus oder links,Go straight or left
+38,mandatory,Rechts vorbei,Keep right
+39,mandatory,Links vorbei,Keep left
+40,mandatory,Kreisverkehr,Roundabout mandatory
+41,other,Ende des Überholverbots,End of no passing
+42,other,Ende des Überholverbots für Kfz über 3.5 t,End of no passing by vehicles over 3.5 t

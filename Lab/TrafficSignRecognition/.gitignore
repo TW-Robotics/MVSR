@@ -1,0 +1,4 @@
+# The dataset itself is distributed separately - only the structure is versioned.
+dataset/*/images/*
+!dataset/*/images/.gitkeep
+__pycache__/
